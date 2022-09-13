@@ -22,7 +22,6 @@ Cronograma seguiu mais ou menos a ordem:
 
 As atividades seguem a ordem:
 
-
 | Núm | Abordagem   | Tests gradle      |
 |-----|-------------|-------------------|
 | 001 | Javac       | Autograding ok    |
