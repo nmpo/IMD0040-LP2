@@ -1,7 +1,7 @@
 # IMD0040-LP2
 Acervo de estudos realizados na matéria de LP2: Java.
 
-São as opções de investimento disponíveis:
+Cronograma seguiu mais ou menos a ordem:
 - Introdução a POO
 - Introdução ao Java
 - Sintaxe Básica do Java
