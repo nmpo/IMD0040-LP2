@@ -28,7 +28,7 @@ As atividades seguem a ordem:
 | 001 | Javac       | Autograding ok    |
 | 002 | Classes/Obj | Autograding ok    |
 | 003 | String      | Autograding ok    |
-| 004 | Herança     || Autograding ok   |
+| 004 | Herança     | Autograding ok    |
 | 005 | Polimorfismo| Autograding ok    |
 | 006 | Métodos     | Autograding ok    |
 | 007 | Interface   | Autograding fail  |
